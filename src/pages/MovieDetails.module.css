@@ -1,0 +1,27 @@
+.detailsContainer {
+    display: flex;
+    gap: 20px;
+    justify-content: center;  
+    flex-wrap: wrap; /*para que lo cambie row sin usar media queries para mobile*/ 
+}
+
+.col {
+    max-width: 350px;
+    height: auto;
+    height:80%;
+    margin: 10px;
+    margin-top: 20px;
+}
+
+.movieImg {
+    border-radius: 15px;
+    /* width: 350px; */
+}
+
+.firstItem{
+    margin-top: 0;
+}
+.movieDetails strong {
+    font-size: 1.2rem;
+}
+

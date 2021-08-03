@@ -2,6 +2,12 @@
     list-style: none;
     font-size: 1.5;
 }
+.movieCard:hover {
+    opacity: 0.8;
+}
+.title{
+    font-size: 1.5rem;
+}
 
 .movieImg {
     border-radius: 10px;
