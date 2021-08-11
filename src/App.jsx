@@ -1,6 +1,6 @@
 
 // import { Fragment } from 'react';
-import { MoviesGrid } from './components/MoviesGrid';
+// import { MoviesGrid } from './components/MoviesGrid';
 import styles from'./App.module.css';
 import {
   BrowserRouter as Router,
